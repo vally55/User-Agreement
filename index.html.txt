@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>User Agreement</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #f0f0f0;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 2rem;
+      min-height: 100vh;
+    }
+    .agreement {
+      max-width: 700px;
+      background-color: #1e1e1e;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.4);
+    }
+    h1 {
+      color: #4caf50;
+    }
+    a {
+      color: #4caf50;
+    }
+  </style>
+</head>
+<body>
+  <div class="agreement">
+    <h1>User Agreement</h1>
+    <p>By joining our Telegram group, you agree to the following rules:</p>
+    <ul>
+      <li>No spam or promotional links</li>
+      <li>Respect all members</li>
+      <li>Any abusive or offensive behavior will result in immediate removal</li>
+      <li>Do not share invite links or bypass the gatekeeper bot process</li>
+    </ul>
+    <p>Violating any of these rules may result in a temporary or permanent ban from the group.</p>
+    <p>Thanks for confirming.<br>
+    Here's the User Agreement:<br>
+    <a href="https://vally55.github.io/User-Agreement/">https://vally55.github.io/User-Agreement/</a></p>
+    <p>Contact <a href="https://t.me/ToxicGas1916">@ToxicGas1916</a> if any problems occur.</p>
+  </div>
+</body>
+</html>
